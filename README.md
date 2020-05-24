@@ -1,11 +1,11 @@
-**Appsource SMS** a clean and modern school management system that covers everything from exams and assignments to budgeting and internal messaging for all staff. It even includes a mobile app that can work on all tablets and smartphones for convenient on-the-go use.
-Appsource SMS has a ton of features that largely appeal to teachers. It provides educators with what they need to efficiently run their classrooms.
+** SMS** a clean and modern school management system that covers everything from exams and assignments to budgeting and internal messaging for all staff. It even includes a mobile app that can work on all tablets and smartphones for convenient on-the-go use.
+ SMS has a ton of features that largely appeal to teachers. It provides educators with what they need to efficiently run their classrooms.
 It’s built with a complete suite of applications that permits you to automate all aspects of a school, including student information system, student-grading, student billing & library management.
-Appsource school system provides different access levels to its users. The Super User/Administrator, Head master, Director of Studies, Teachers, Secretary, Librarian, etc all have separate access levels allowing them to only access information they require. 
+ school system provides different access levels to its users. The Super User/Administrator, Head master, Director of Studies, Teachers, Secretary, Librarian, etc all have separate access levels allowing them to only access information they require. 
 
-  - Contact via WhatsApp on **+256-705-656565**
+  - Contact via WhatsApp on 9407174355
 
-**Appsource SMS is built using Pure PHP** (No PHP Framework Used)
+**SMS is built using Pure PHP** (No PHP Framework Used)
 
 #
 #
